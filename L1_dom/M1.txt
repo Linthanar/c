@@ -1,0 +1,14 @@
+Misja 1: Licznik zapasów wody 
+Na statku AI-R trzeba kontrolować, czy w zbiorniku jest wystarczająco wody pitnej dla załogi.
+Zadanie:
+ Napisz program, który:
+Wczyta liczbę litrów wody w zbiorniku.
+
+
+Jeśli wody jest mniej niż 50 litrów, wypisze komunikat:
+ ALARM: za mało wody!
+ W przeciwnym razie wypisze:
+ Zapas wody wystarczający.
+
+
+Wskazówka: użyj zmiennej typu int lub double i instrukcji if.

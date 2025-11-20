@@ -1,0 +1,1 @@
+ssh psobczyn@diablo.kcir.pwr.edu.pl

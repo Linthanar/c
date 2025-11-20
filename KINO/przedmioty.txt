@@ -1,0 +1,4 @@
+(3,4) taboret - 13.5
+(5,6) walizka - 15.75
+(7, 11) portfel - 12.55 
+(0,0) koniec - 0.0 

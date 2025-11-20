@@ -1,0 +1,21 @@
+Misja 2: Licznik kapsuł ratunkowych
+Komputer statku AI-R ma sprawdzić, ilu pasażerów zmieści się w kapsułach ratunkowych. Jedna kapsuła ma pojemność 4 osób.
+Zadanie:
+ Napisz program, który:
+Wczyta liczbę pasażerów na statku.
+
+
+Obliczy, ile kapsuł potrzeba, aby wszyscy się zmieścili.
+
+
+Jeśli pasażerów nie da się podzielić równo, to ostatnia kapsuła i tak musi być użyta.
+
+
+Wypisze na ekranie liczbę kapsuł.
+
+
+Dodatkowo, użyj pętli while, aby wypisać po kolei:
+ Kapsula 1 gotowa, Kapsula 2 gotowa … aż do ostatniej.
+
+
+Wskazówka: użyj dzielenia całkowitego (/) i reszty z dzielenia (%).
