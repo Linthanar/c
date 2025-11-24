@@ -1,0 +1,6 @@
+X0100
+38. Cechą charakterystyczną elektronicznych mierników analogowych jest:
+a) przetwarzanie analogowych wielkości elektronicznych na fizyczne
+b) przetwarzanie napięcia jako elektrycznego nośnika informacji
+c) możliwości przesłania wyniku pomiaru do komputera
+d) eliminacja zjawisk elektromagnetycznych

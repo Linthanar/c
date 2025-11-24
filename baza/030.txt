@@ -1,0 +1,6 @@
+X0010
+30. Wartość pierwotnego wzorca napięcia zależy od:
+a) prądu w zjawisku Zenera
+b) rezystancji wzorcowej w prawie Ohma
+c) częstotliwości zewnętrznego pola elektromagnetycznego
+d) prądu w efekcie Halla

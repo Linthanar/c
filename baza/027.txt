@@ -1,0 +1,6 @@
+X0100
+27. Błąd graniczny pomiaru określa:
+a) konieczność popełnienia błędu podczas pomiarów
+b) przedział, w którym mieści się wartość prawdziwa przy braku błędów losowych
+c) przedział, w którym z określonym prawdopodobieństwem mieści się wartość prawdziwa
+d) zasadę propagacji błędów

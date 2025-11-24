@@ -1,0 +1,6 @@
+X1000
+8. W gwieździstej konfiguracji systemów pomiarowych:
+a) kontroler zajmuje w systemie miejsce centralne
+b) kontroler ma dostęp tylko do sygnałów organizacyjnych
+c) kontroler nie zajmuje wyróżnionego miejsca w systemie
+d) kontroler ma dostęp tylko do sygnałów informacyjnych

@@ -1,0 +1,6 @@
+X0001
+4. Wewnętrzna struktura cyfrowego amperomierza wartości skutecznej:
+a) posiada układ kompensacji impedancji połączeń
+b) posiada wejście symetryczne i niesymetryczne
+c) jest rozbudowaną strukturą amperomierza analogowego
+d) jest rozbudowaną struktura woltomierza cyfrowego

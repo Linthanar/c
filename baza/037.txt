@@ -1,0 +1,6 @@
+X1000
+37. Mechanizm mierników elektromagnetycznych wychyla się proporcjonalnie do:
+a) średniej wartości natężenia prądu w cewce
+b) stosunku rezystancji mierzonej i wzorcowej
+c) natężenia pola elektromagnetycznego
+d) wartości szczytowej napięcia zmiennego

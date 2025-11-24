@@ -1,0 +1,6 @@
+X0010
+33. Rozproszone systemy pomiarowe budowane są:
+a) na obszarze jednego laboratorium lub sąsiadujących pomieszczeń
+b) w postaci przyrządów wirtualnych uruchamianych na tym samym komputerze
+c) z wykorzystaniem sieci komunikacji przewodowej lub bezprzewodowej
+d) jako czujniki inteligentne

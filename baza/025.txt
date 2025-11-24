@@ -1,0 +1,6 @@
+X0001
+25. Zwiększenie Dokładności i powtarzalności mostków transformatorowych wynika z:
+a) równomiernego podziału napięcia w uzwojeniach wtórnych
+b) uproszeczenia rónoważenia mostka do jednego wzorca regulowanego
+c) dokładności i stabilności napięcia w uzwojeniu pierwotnym
+d) zastąpienia stosunku rezystancji wzorcowych stosunkiem liczby uzwojeń wtórnych

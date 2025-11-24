@@ -1,0 +1,6 @@
+X0001
+36. W transmisji asynchronicznej:
+a) nadajnik i odbiornik przesyłają dane naprzemiennie
+b) odbiornik informuje nadajnik o momencie przesyłania danych
+c) nadajnik i odbiornik informują komputer o przesłaniu danych
+d) nadajnik uprzedza odbiornik o rozpoczęciu nadawania danych

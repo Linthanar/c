@@ -1,0 +1,6 @@
+X0010
+19. Moduł impedancji elektrycznej jest równy:
+a) przesunięciu fazowemu między reaktancją a rezystancją
+b) dobroci elementu
+c) stosunkowi wartości skutecznych napięcia i prądu
+d) ilorazowi długości przewodów i odległości między nimi

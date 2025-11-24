@@ -1,0 +1,6 @@
+X0001
+5. Wzorzec odniesienia służy do:
+a) kontroli wartości stałej fizycznej
+b) przekazywania wartości wzorcowi pierwotnemu
+c) konstrukcji przyrządów pomiarowych
+d) kontroli dokładności pomiarów w danej instytucji metrologicznej

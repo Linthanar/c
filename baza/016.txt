@@ -1,0 +1,6 @@
+X0001
+16. Dokładność cyfrowego pomiaru częstotliwości zależy głównie od:
+a) częstotliwości sygnału badanego
+b) błędu dyskretyzacji urządzenia odczytowego
+c) jakość generatora kwarcowego
+d) szybkości licznika

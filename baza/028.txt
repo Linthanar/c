@@ -1,0 +1,6 @@
+X1000
+28. Zwiększanie dokładności cyfrowego pomiaru okresu uzyskuje się przez:
+a) zastosowanie dodatkowego dzielnika częstotliwości dającego pomiar okresu średniego
+b) podanie na układ sterowania bramką częstotliwości wzorcowej
+c) zastosowanie wzorca atomowego
+d) zastosowanie układów wejściowych oznaczonych jako "Start" i "Stop"

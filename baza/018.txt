@@ -1,0 +1,6 @@
+X1000
+18. Dokładność pomiaru pośredniego wyznaczana jest:
+a) zgodnie z regułą propagacji błędów pomiarowych bezpośrednich
+b) zgodnie z regułą przekory w zjawiskach fizycznych
+c) na podstawie modelu fizycznego pomiaru bezpośredniego
+d) na podstawie wyniku pomiaru pośredniego

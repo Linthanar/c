@@ -1,0 +1,6 @@
+X1000
+43. Podstawową zaletą mierników mikroprocesorowych jest:
+a) cyfrowe przetwarzanie danych pomiarowych
+b) wykorzystanie cyfrowych wzorców częstotliwości
+c) zastosowanie szybkich przetworników C/A
+d) brak bloków przetwarzania analogowego

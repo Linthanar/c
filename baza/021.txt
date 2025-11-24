@@ -1,0 +1,6 @@
+X0001
+21. W pośrednich pomiarach mocy w obwodach prądu stałego wystarczy znać:
+a) rezystancję odbiornika mocy i wskazanie omomierza
+b) prąd przejściowy i wskazanie amperomierza
+c) napięcie wejściowe i wskazanie woltomierza
+d) rezystancję odbiornika mocy i wskazanie woltomierza

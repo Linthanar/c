@@ -1,0 +1,6 @@
+X0010
+3. Źródłem błędu systematycznego pomiaru natężenia prądu stałego jest:
+a) niezerowa rezystancja źródła prądowego
+b) nieskończenie duża rezystancja amperomierza
+c) niezerowa rezystancja amperomierza
+d) nieskończenie duża rezystancja źródła prądowego

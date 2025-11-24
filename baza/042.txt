@@ -1,0 +1,6 @@
+X0100
+42. W pośrednich metodach pomiarowych:
+a) wynik pomiaru podawany jest użytkownikowi pośrednio
+b) wynik pomiaru jest obliczany z pomiarów bezpośrednich
+c) wynik obliczany jest jako średnia z serii pomiarów
+d) wynik pomiaru nie zależy od wartości wzorca

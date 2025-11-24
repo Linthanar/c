@@ -1,0 +1,6 @@
+X1000
+44. Stopień przetwarzania w systemowym opisie działania mierników to:
+a) elementarny blok opisany jednym równaniem matematycznym
+b) przetwornik A/C
+c) model matematyczny najprostszego z bloków miernika
+d) przetwornik stopniowy wielkości wejściowej

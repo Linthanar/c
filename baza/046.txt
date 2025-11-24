@@ -1,0 +1,6 @@
+X0001
+46. Wartości sygnału po spróbkowaniu a przed kwantowaniem są:
+a) większe niż wartości sygnału analogowego
+b) mniejsze niż wartości sygnału analogowego
+c) zdyskretyzowane w dziedzinie wartości
+d) takie same jak wartości sygnału analogowego

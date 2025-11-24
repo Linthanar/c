@@ -1,0 +1,6 @@
+X0100
+39. Dokładność metody wychyłowej róźnicowej jest większa niż klasycznej gdyż:
+a) wielkość mierzona jest bardziej zróżnicowana niż w miernikach klasycznych
+b) zmniejszeniu ulega zakres pomiaru "wychyłowego"
+c) jest ona modyfikacją metody kompensacyjnej
+d) jest ona modyfikacją metody komparacyjnej

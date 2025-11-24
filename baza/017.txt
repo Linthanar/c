@@ -1,0 +1,6 @@
+X0010
+17. Wpływ błędów przypadkowych można zredukować przez:
+a) określenie wartości poprawki
+b) określenie niepewności pojedynczego pomiaru
+c) wykonanie serii pomiarów i obliczenie wartości średniej
+d) wykonanie pojedynczego pomiaru i obliczenie błędu granicznego

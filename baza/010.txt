@@ -1,0 +1,6 @@
+X0100
+10. Kwantowanie próbki sygnału polega na:
+a) przetworzeniu jej na jeden z dowolnych poziomów wartości
+b) przypisaniu jej jednego z dozwolonych poziomów wartości
+c) przetworzeniu jej na jedną z dozwolonych chwil czasowych
+d) przypisaniu jej jednej z dozwolonych chwil czasowych

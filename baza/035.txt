@@ -1,0 +1,6 @@
+X0001
+35. Pomiar impedancji mostkiem czterogałęźnym daje:
+a) wartość skuteczną mierzonej wielkości
+b) składową stałą i zmienną mierzonej wielkości
+c) wartość średnią mierzonej wielkości
+d) część rzeczywistą i urojoną mierzonej wielkości

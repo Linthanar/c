@@ -1,0 +1,6 @@
+X0001
+41. W analogowym bloku uzyskiwania wyniku pomiaru:
+a) napięcie wejściowe jest przetwarzane proporcjonalnie do wartości skutecznej
+b) napięcie wejściowe jest przetwarzane z postaci cyfrowej na analogową
+c) napięcie wejściowe jest przetwarzane analogicznie jak wynik pomiaru
+d) napięcie wejściowe jest przetwarzane zgodnie z definicją wielkości mierzonej

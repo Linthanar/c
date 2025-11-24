@@ -1,0 +1,6 @@
+X1000
+40. W miernikach mikroprocesorowych rezygnuje się z bloku AC/DC, gdyż:
+a) można go zastąpić dodatkową procedurą obliczeniową
+b) blok ten nie przetwarza sygnałów cyfrowych
+c) mierniki te nie przetwarzają silnych sygnałów akustycznych
+d) składowa stała wytwarzana jest wcześniej przez blok A/C

@@ -1,0 +1,6 @@
+X0010
+12. Błąd systematyczny pomiaru napięcia stałego rośnie gdy:
+a) maleje pojemność wewnętrzna źródła napięcia
+b) rośnie rezystancja wejściowa woltomierza
+c) rośnie rezystancja wewnętrzna źródła napięcia
+d) maleje pojemność wejściowa woltomierza

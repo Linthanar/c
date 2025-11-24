@@ -1,0 +1,6 @@
+X0010
+13. Wielkości podstawowe w układzie SI wybrano tak, aby:
+a) można było za ich pomocą definiować prawa przyrody
+b) ich liczba obejmowała maksymalnie dużą liczbę stałych fizycznych
+c) były od siebie niezależne wymiarowo
+d) odpowiadały wzorcom przechowywanym w Sevres pod Paryżem

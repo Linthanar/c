@@ -1,0 +1,6 @@
+X0010
+9. Odporność interfejsów równoległych na zakłócenia zwiększa się:
+a) wyposażając je w konwertery
+b) stosując transmisję asynchroniczną
+c) oddzielając linie sygnałowe liniami masy
+d) stosując transmisję asynchroniczną

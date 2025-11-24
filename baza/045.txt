@@ -1,0 +1,6 @@
+X0100
+45. Pomiar rezystancji pośrednią metodą techniczną wymaga:
+a) pomiaru napięcia na rezystancji badanej i wzorcowej
+b) pomiaru płynącego prądu i spadku napięcia na rezystorze
+c) znajomości błędu granicznego omomierza
+d) znajomości trzech rezystancji wzorcowych mostka

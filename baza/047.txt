@@ -1,0 +1,6 @@
+X0010
+47. W bezpośrednich metodach pomiarowych:
+a) wynik pomiaru podawany jest bezpośrednio użytkownikowi
+b) wielkość matematyczna i mierzona są tego samego rodzaju
+c) wielkość porównywana i wzorcowa są tego samego rodzaju
+d) wynik pomiaru zależy bezpośrednio od definicji jednostki

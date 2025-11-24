@@ -1,0 +1,6 @@
+X0001
+23. Struktura przetwornika Kompensacyjnego A/C jest zgodna z:
+a) metodą złożoną pomiaru
+b) metodą wychyłową pomiaru
+c) metodą pośrednią pomiaru
+d) metodą zerową pomiaru

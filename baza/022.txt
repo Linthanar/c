@@ -1,0 +1,6 @@
+X0010
+22. Przedział ufności określony jest przez:
+a) wartość błędu granicznego
+b) prawdopodobieństwo popełnienia błędu grubego
+c) prawdopodobieństwo znalezienia w nim wartości prawdziwej
+d) zaufanie do wskazanej wartości mierzonej

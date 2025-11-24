@@ -1,0 +1,6 @@
+X0001
+48. Błąd metody można wyeliminować ponieważ:
+a) stosuje się mierniki o wystarczająco dużej dokładności
+b) jest to błąd przypadkowy, którego wartość podaje producent
+c) jest to błąd wartości nominalnej
+d) jest to błąd systematyczny, którego wartość i znak można obliczyć 

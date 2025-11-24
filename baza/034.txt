@@ -1,0 +1,6 @@
+X1000
+34. W typowym woltomierzu elektronicznym przetwornik AC/DC znajduje się między:
+a) układem wejściowym i mechanizmem wskaźnika
+b) układem wejściowym i wzmacniaczem DC
+c) sondą i przewodem łączącym ją z miernikiem
+d) wzmacniaczem AC i mechanizmem wskaźnika

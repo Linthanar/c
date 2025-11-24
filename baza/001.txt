@@ -1,0 +1,6 @@
+X0001
+1. Mała rozdzielczość przetworników A/C w oscyloskopach cyfrowych:
+a) nie ma znaczenia, gdyż jest kompensowana przez dodatkowy przetwornik A/C
+b) jest związana z małymi rozmiarami i niskim kosztem tych oscyloskopów
+c) wynika z ograniczeń stawianych przez mikroprocesor sterujący
+d) jest związana z dużą częstotliwością próbkowania i niską rozdzielczością LCD

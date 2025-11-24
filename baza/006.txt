@@ -1,0 +1,6 @@
+X0001
+6. Magistralowa (liniowa) konfiguracja systemów pomiarowych cechuje się:
+a) szeregowym podłączeniem wszystkich elementów do magistrali
+b) liniowym połączeniem magistrali informacyjnych z organizacyjnymi
+c) połączeniem wszystkich elementów systemu w lini prostej
+d) równoległym podłączeniem wszystkich elementów do magistrali

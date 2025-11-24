@@ -1,0 +1,6 @@
+X1000
+11. W omomierzach typowych rezystancji stosuje się:
+a) źródło prądu stałego i strukturę woltomierza
+b) rezystancję wzorcową i źródło prądu stałego
+c) źródło napięcia stałego i strukturę amperomierza
+d) rezystancję wzorcową i źródło napięcia stałego

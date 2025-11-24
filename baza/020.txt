@@ -1,0 +1,6 @@
+X0010
+20. Kompensacyjna metoda pomiarowa polega na:
+a) kompensacji temperaturowej miernika
+b) kompensacji błędu wielkości mierzonej
+c) zrównoważeniu wartości wielkości mierzonej i wzorca regulowanego
+d) wyzerowaniu różnicy między wartościami wielkości mierzonej i wzorca stałego

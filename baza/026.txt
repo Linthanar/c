@@ -1,0 +1,6 @@
+X0001
+26. Blok wyzwalania i synchronizacji w oscyloskopie analogowym reaguje na:
+a) sygnał z bloku odchylania poziomego
+b) ustawienie przełącznika wejściowego AC/DC/GND
+c) napięcie zasilania lampy oscyloskopowej
+d) sygnał z bloku odchylania pionowego

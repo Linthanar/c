@@ -1,0 +1,6 @@
+X1000
+15. Kąt utworzony przez wektor impedancji z osią rzeczywistą jest równy:
+a) przesunięciu fazowemu między napięciem i prądem
+b) stosunkowi wartości średnich napięcia i prądu
+c) kątowi stratności elementu
+d) iloczynowi jej części rzeczywistej i urojonej

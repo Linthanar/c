@@ -1,0 +1,6 @@
+X0010
+7. Dyskretna transformata Fouriera danych pomiarowych pozwala na:
+a) obliczenie współczynników prostej dopasowanej do tych danych
+b) wyznaczenie wartości szczytowej mierzonego sygnału
+c) pomiar częstotliwości i amplitudy sinusoid składowych
+d) ślepą separację sygnałów składowych

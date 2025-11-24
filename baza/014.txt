@@ -1,0 +1,6 @@
+X0010
+14. Obecnie jednostki miar definiowane są z wykorzystaniem stałych fizycznych, gdyż:
+a) mogą być mierzone z bardzo dużą precyzją
+b) ich wartości zostały arbitralnie ustalone na mocy umów międzynarodowych
+c) uważane są one za wielkości niezmienne we wszechświecie
+d) łatwo je wytworzyć jako elementy elektroniczne

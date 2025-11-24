@@ -1,0 +1,6 @@
+X1000
+31. Cechą interfejsu USB jest:
+a) możliwość budowania systemów pomiarowych w topologii drzewa
+b) oddzielenie lini sygnałowych szeregowymi liniami masy
+c) możliwość połączenia ze sobą dowolnych urządzeń posiadających ten interfejs
+d) wbudowany układ generatora częstotliwości

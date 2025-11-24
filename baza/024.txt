@@ -1,0 +1,6 @@
+X1000
+24. Impedancja wejściowa woltomierza napięć zmiennych maleje z częstotliwością gdyż:
+a) maleje rezystancja wejściowa woltomierza
+b) rośnie tolerancja woltomierza na zakłócenia losowe
+c) maleje reaktancja pojemności wejściowej woltomierza
+d) rośnie impedancja doprowadzeń napięcia

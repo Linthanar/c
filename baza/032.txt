@@ -1,0 +1,6 @@
+X0100
+32. Niepewność rozszerzona pomiaru jest wprost proporcjonalna do:
+a) niepewności odczytu wyniku ze skali pomiarowej
+b) niepewności standardowej łącznej
+c) średniego błędu losowego
+d) maksymalnego błedu systematycznego
