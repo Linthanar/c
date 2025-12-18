@@ -3,7 +3,8 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/enemy-lab5-error/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
