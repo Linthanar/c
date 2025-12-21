@@ -1,0 +1,46 @@
+
+
+
+// /*GROBOWIEC
+// /*PRE: na wejściu przyjmuje ścierzkę do pliku oraz numer lini do wypisania,*/
+// /*numeracja lini zaczyna się od zera*/
+// // int print_line_path(char path[], int line){
+// //     char str[128];                              /*miejsce do zapisu str z pliku*/
+// //     FILE *plik = fopen(path,"r");               /*otwarcie pliku o podanej ścierzce*/
+// //     while(fscanf(plik,"%s",str) != EOF){        /*wypisanie znakow*/
+// //             if(line == 0){ printf("%s",str);    /*wypisuje do gdy linia jest odpowiednia*/
+// //             fclose(plik);return 0;}
+// //             else{line--;}
+// //         }
+    
+// //     fclose(plik);return 0;
+// // }
+// /*POST: wypisuje zawartość wypranej lini z pliku*/
+// /*Wypisać wskazaną linię z pliku tekstowego (np. linia 3 z pliku .txt)
+
+
+
+// if(!strcmp(linia,"\n")){
+//         printf("\n");}
+
+// int argn,const char *argv[]
+
+
+
+// char ascii;                                 / *miejsce do zapisu znaku z pliku* /
+// char path[13] = "baza/003.txt";             / *ścierzka do wybranego pliku* /
+// FILE *plik = fopen(path,"r");               / *otwarcie pliku o podanej ścierzce* /
+// while(fscanf(plik,"%c",&ascii) != EOF){     / *wypisanie znakow* /
+//     printf("%c",ascii);
+       
+
+
+//     char numer[4] = "";
+// int  inumer[4];
+// for(int p=1; p < (SIZE_BAZA+1); p++){
+//     inumer[0] = (p/100);
+//     inumer[1] = (p/10 ) - ((p/100)*10);
+//     inumer[2] = (p/1  ) - ((p/100)*100) - ((p/10)*10);
+//     sprintf(numer,"%d%d%d",inumer[0],inumer[1],inumer[2]);
+//     sprintf(path,"%s/%3s.txt",folder,numer);
+// */

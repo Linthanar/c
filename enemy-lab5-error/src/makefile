@@ -1,11 +1,11 @@
 IDIR =../include
-CC=gcc
+CC=gcc -std=c99 -pedantic -Wall
 CFLAGS=-I$(IDIR)
 
 ODIR=obj
 LDIR =../lib
 
-LIBS=#-lm
+LIBS=-lm
 
 _DEPS = modul.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
